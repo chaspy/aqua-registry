@@ -27,7 +27,7 @@ packages:
   version: v1.0.6 # renovate: depName=argoproj/argo-rollouts
 - name: CircleCI-Public/circleci-cli
   registry: standard
-  version: v0.1.15932 # renovate: depName=CircleCI-Public/circleci-cli
+  version: v0.1.25085 # renovate: depName=CircleCI-Public/circleci-cli
 - name: cli/cli
   registry: standard
   version: v2.0.0 # renovate: depName=cli/cli
