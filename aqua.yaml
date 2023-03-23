@@ -9,7 +9,7 @@ packages:
   version: v1.10.0 # renovate: depName=accurics/terrascan
 - name: ahmetb/kubectl-tree
   registry: standard
-  version: v0.4.1 # renovate: depName=ahmetb/kubectl-tree
+  version: v0.4.3 # renovate: depName=ahmetb/kubectl-tree
 - name: ahmetb/kubectx
   registry: standard
   version: v0.9.4 # renovate: depName=ahmetb/kubectx
